@@ -15785,3 +15785,48 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [01:59:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
 [02:00:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
 [02:01:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[02:01:52] [Server thread/TRACE] [FML]: Handshake channel activating
+[02:01:52] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[02:01:52] [Server thread/DEBUG] [FML]:   Next: HELLO
+[02:01:53] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[02:01:53] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[02:01:53] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:32 mods->FMLHandshakeServerState$2:HELLO
+[02:01:53] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,usefulbackpacks@1.5.4.85,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,futuremc@0.2.6,spartanshields@1.5.5,xaerominimap@25.0.0,mcp@9.42,nocubessrpnests@3.0.0,securitycraft@v1.9.12,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,foamfixcore@7.7.4,srparasites@1.9.21,uteamcore@2.2.5.339,spartanweaponry@1.6.0,xaerominimap_core@1.12.2-1.0,foamfix@@VERSION@,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,charm@1.4,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,overlast@0.0.2
+[02:01:53] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[02:01:53] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[02:01:53] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[02:01:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[02:01:55] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[02:01:55] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[02:01:55] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[02:01:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:01:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: hevilfren123[/127.0.0.1:41138] logged in with entity id 552471 at (-291.0355206308251, 109.0, 164.88223601763286)
+[02:01:55] [Server thread/INFO] [dsurround]: Player [hevilfren123] connected with Dynamic Surroundings @VERSION@
+[02:01:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 joined the game
+[02:01:55] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[02:01:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> diavlo
+[02:02:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[02:03:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[02:04:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[02:04:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 is bleeding...
+[02:04:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 was slain by Assimilated Cow
+[02:04:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[02:05:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[02:06:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[02:06:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 has made the advancement [Monster Hunter]
+[02:07:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[02:07:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[02:08:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 has made the advancement [Stone Age]
+[02:08:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[02:09:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 has made the advancement [Getting an Upgrade]
+[02:09:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[02:09:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> empezamos con la base?
+[02:09:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> donde seria
+[02:10:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> subterranea o por fuera?
+[02:10:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[02:10:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> creo que subterranae
+[02:10:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> oka
+[02:10:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[02:11:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> voy sacar mas champiñones del nether
+[02:11:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> tengo semillas
+[02:11:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
