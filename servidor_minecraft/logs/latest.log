@@ -959,3 +959,44 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [21:29:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> muerto
 [21:29:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> pica esto safemos
 [21:30:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> que
+[21:31:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> hdp
+[21:31:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> que feu
+[21:31:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> toma
+[21:32:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> hacete la armadura
+[21:34:02] [Server thread/INFO] [OverLast]: Saving data to disk.
+[21:34:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Summer, day 14.
+[21:34:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Think the radio station is boring and want to change channels? Sorry, this is a compulsory program! just listen just listen(。・ω・。)
+[21:34:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Crazy hot outside, remember wear sunscreen when you go out.
+[21:34:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Summer, day 14.
+[21:34:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Turn off the radio ? It can't be closed! Follow the electromagnetic wave and beg me to close!
+[21:34:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for summer.
+[21:34:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: hevilfren123 lost connection: Timed out
+[21:34:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 left the game
+[21:34:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: XDD lost connection: Timed out
+[21:34:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDD left the game
+[21:34:55] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[21:34:55] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 38 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,usefulbackpacks@1.5.4.85,ctgui@1.0.0,crafttweakerjei@2.0.3,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,futuremc@0.2.6,spartanshields@1.5.5,xaerominimap@25.0.0,mcp@9.42,nocubessrpnests@3.0.0,securitycraft@v1.9.12,sereneseasons@1.2.18,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,apexguns@0.1.2,forgelin@1.8.4,foamfixcore@7.7.4,srparasites@1.9.21,uteamcore@2.2.5.339,spartanweaponry@1.6.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,foamfix@@VERSION@,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,crafttweaker@4.1.20,charm@1.4,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,overlast@0.2.9
+[21:34:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:34:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: XDD[/127.0.0.1:54740] logged in with entity id 2557511 at (-836.6999999880791, 14.0, -1044.8755116667442)
+[21:34:57] [Server thread/INFO] [dsurround]: Player [XDD] connected with Dynamic Surroundings @VERSION@
+[21:34:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDD joined the game
+[21:34:57] [Server thread/INFO] [Waila]: Player EntityPlayerMP['XDD'/2557511, l='Venezuela', x=-836.70, y=14.00, z=-1044.88] connected. Sending ping
+[21:36:08] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[21:36:08] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 38 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,usefulbackpacks@1.5.4.85,ctgui@1.0.0,crafttweakerjei@2.0.3,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,futuremc@0.2.6,spartanshields@1.5.5,xaerominimap@25.0.0,mcp@9.42,nocubessrpnests@3.0.0,securitycraft@v1.9.12,sereneseasons@1.2.18,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,apexguns@0.1.2,forgelin@1.8.4,foamfixcore@7.7.4,srparasites@1.9.21,uteamcore@2.2.5.339,spartanweaponry@1.6.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,foamfix@@VERSION@,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,crafttweaker@4.1.20,charm@1.4,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,overlast@0.2.9
+[21:36:10] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:36:10] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: hevilfren123[/127.0.0.1:38380] logged in with entity id 2581653 at (-832.3000000119209, 13.0, -1044.3286956296465)
+[21:36:10] [Server thread/INFO] [dsurround]: Player [hevilfren123] connected with Dynamic Surroundings @VERSION@
+[21:36:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 joined the game
+[21:36:10] [Server thread/INFO] [Waila]: Player EntityPlayerMP['hevilfren123'/2581653, l='Venezuela', x=-832.30, y=13.00, z=-1044.33] connected. Sending ping
+[21:36:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> ese mensaje rao
+[21:36:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> vamonos
+[21:37:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> xd
+[21:37:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> llevo la antorcha yo
+[21:38:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> eh cierot
+[21:38:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> si llega cero creo que morimos
+[21:38:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> estoy en 0
+[21:39:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> por aca
+[21:39:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> por aca no
+[21:39:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> vamos
+[21:39:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: XDD lost connection: Timed out
+[21:39:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDD left the game
