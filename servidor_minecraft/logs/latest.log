@@ -529,3 +529,5 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [01:28:09] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
 [01:28:09] [Server thread/INFO] [Meson ASM]: Patch result: true
 [01:28:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDD has made the advancement [Not Today, Thank You]
+[01:42:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDD has made the advancement [It Comes Back?]
+[01:51:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [XDD: Set own game mode to Spectator Mode]
