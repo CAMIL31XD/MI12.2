@@ -886,3 +886,15 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [04:49:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> diavlo voy pera
 [04:50:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 has made the advancement [Not Today, Thank You]
 [04:52:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> donde anda la mine?
+[04:53:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> hice un tunel en la punta de la cueva
+[04:53:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> hay agua abajo,tirate
+[04:53:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> vamooos
+[04:53:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> ya estoy
+[04:53:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> lapiz,ya podemos encantar
+[05:00:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> voy a dormir we safo por hoy
+[05:00:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> suerte
+[05:00:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> dale
+[05:00:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: XDD lost connection: Timed out
+[05:00:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDD left the game
+[05:02:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: hevilfren123 lost connection: Timed out
+[05:02:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 left the game
