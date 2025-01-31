@@ -17444,3 +17444,151 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [19:58:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
 [19:59:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
 [19:59:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> full madera
+[20:00:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[20:00:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> si vez un hongo cojelo tambien
+[20:00:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> hay
+[20:00:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> creo
+[20:01:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[20:01:24] [Netty Epoll Server IO #5/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[20:01:24] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySpider['Spider'/272789, l='Venezuela', x=-802.24, y=67.00, z=-857.30]
+[20:01:24] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[20:01:26] [Netty Epoll Server IO #5/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[20:01:26] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySpider['Spider'/272789, l='Venezuela', x=-803.74, y=67.40, z=-858.37]
+[20:01:26] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[20:01:28] [Netty Epoll Server IO #5/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[20:01:28] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySpider['Spider'/272789, l='Venezuela', x=-804.85, y=67.00, z=-858.83]
+[20:01:28] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[20:01:31] [Netty Epoll Server IO #5/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[20:01:31] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySpider['Spider'/272789, l='Venezuela', x=-809.48, y=66.00, z=-861.10]
+[20:01:31] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[20:01:32] [Netty Epoll Server IO #5/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[20:01:32] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySpider['Spider'/272789, l='Venezuela', x=-812.14, y=67.14, z=-862.98]
+[20:01:32] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[20:01:37] [Netty Epoll Server IO #5/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[20:01:37] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntitySpider['Spider'/272789, l='Venezuela', x=-814.69, y=65.00, z=-865.09]
+[20:01:37] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[20:01:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[20:02:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> aaah esta espada saca mas cuanto menos armadura tengo
+[20:02:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> para sacar daño con esa armaa no tenes que usar el escudo
+[20:02:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> es de dos manos
+[20:02:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> real
+[20:02:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[20:02:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> zombie
+[20:03:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> xk poranga hay una antorcha de redstone
+[20:03:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[20:03:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> ni idea
+[20:04:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[20:04:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[20:05:14] [Netty Epoll Server IO #5/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[20:05:14] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityZombie['Zombie'/319168, l='Venezuela', x=-829.79, y=64.00, z=-946.67]
+[20:05:14] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[20:05:24] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:24] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:24] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:24] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:24] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:24] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:24] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:24] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:24] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:24] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:24] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:24] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:24] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:24] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:24] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:24] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[20:05:42] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:42] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:42] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:42] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:42] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:42] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:42] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:42] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:42] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:42] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:42] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:42] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:42] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:42] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:42] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:05:42] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[20:06:19] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:19] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:19] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:20] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> NOOOO MI OVEJAAAAAA
+[20:06:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> a aca ta
+[20:06:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:06:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:07:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[20:07:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> eu
+[20:07:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> no podremos dormir
+[20:07:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> por?
+[20:07:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> cuando dormimos sube en atuomatico
+[20:07:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> la barra de evolucion
+[20:07:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> a
+[20:07:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[20:08:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[20:09:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[20:09:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 has made the advancement [En Garde!]
+[20:10:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
