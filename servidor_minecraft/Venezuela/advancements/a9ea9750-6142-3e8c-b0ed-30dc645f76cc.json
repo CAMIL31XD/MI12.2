@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-31 21:24:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-01-30 21:22:34 +0000"
@@ -104,6 +110,12 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-01-31 04:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-31 21:24:46 +0000"
     },
     "done": true
   },
@@ -1308,6 +1320,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-01-30 21:18:12 +0000"
+    },
+    "done": true
+  },
+  "nocubessrpnests:adventeringthehive": {
+    "criteria": {
+      "adventeringthehive": "2025-01-31 21:30:19 +0000"
     },
     "done": true
   },
