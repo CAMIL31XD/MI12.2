@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-31 20:13:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-01-30 21:21:56 +0000"
@@ -38,6 +44,12 @@
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-01-30 21:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-31 20:18:19 +0000"
     },
     "done": true
   },
@@ -104,6 +116,18 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-01-31 03:04:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-31 20:19:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-31 20:19:10 +0000"
     },
     "done": true
   },
@@ -226,6 +250,7 @@
       "cooked_beef": "2025-01-30 21:32:50 +0000",
       "beef": "2025-01-31 02:16:04 +0000",
       "apple": "2025-01-31 02:12:35 +0000",
+      "rotten_flesh": "2025-01-31 20:11:42 +0000",
       "cooked_chicken": "2025-01-31 02:01:40 +0000",
       "mushroom_stew": "2025-01-31 01:30:32 +0000",
       "carrot": "2025-01-31 19:57:36 +0000"
@@ -253,6 +278,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-01-31 01:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2025-01-31 20:19:10 +0000"
     },
     "done": true
   },
@@ -424,6 +455,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-01-31 03:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-31 20:11:52 +0000"
     },
     "done": true
   },
@@ -779,6 +816,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2025-01-31 20:18:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-01-31 03:04:11 +0000"
@@ -818,6 +861,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-31 01:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-31 20:13:37 +0000"
     },
     "done": true
   },
@@ -1163,6 +1212,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-01-31 01:27:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2025-01-31 20:19:10 +0000"
     },
     "done": true
   },
