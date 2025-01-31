@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_the_recipe": "2025-01-31 04:24:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-01-31 03:50:45 +0000"
@@ -236,6 +242,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-01-31 02:58:34 +0000",
+      "cooked_mutton": "2025-01-31 04:22:34 +0000",
       "cooked_beef": "2025-01-31 02:11:40 +0000",
       "beef": "2025-01-31 02:42:43 +0000",
       "mutton": "2025-01-31 03:19:41 +0000",
@@ -495,6 +502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-31 04:24:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2025-01-31 02:12:05 +0000"
@@ -591,6 +604,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-01-31 04:24:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-01-31 02:22:40 +0000"
@@ -614,6 +633,7 @@
       "skeleton": "2025-01-31 02:30:00 +0000",
       "zombie": "2025-01-31 02:12:54 +0000",
       "spider": "2025-01-31 02:06:39 +0000",
+      "creeper": "2025-01-31 04:24:01 +0000",
       "enderman": "2025-01-31 02:19:50 +0000"
     },
     "done": false
@@ -633,6 +653,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-31 03:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2025-01-31 04:24:31 +0000"
     },
     "done": true
   },
@@ -771,6 +797,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2025-01-31 02:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-01-31 04:27:54 +0000"
     },
     "done": true
   },
@@ -924,6 +956,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-31 04:24:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-01-31 03:03:48 +0000"
@@ -933,6 +971,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2025-01-31 02:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2025-01-31 04:24:31 +0000"
     },
     "done": true
   },
@@ -957,6 +1001,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-01-31 02:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-31 04:24:31 +0000"
     },
     "done": true
   },
@@ -1110,6 +1160,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2025-01-31 03:06:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-31 04:24:31 +0000"
     },
     "done": true
   },
