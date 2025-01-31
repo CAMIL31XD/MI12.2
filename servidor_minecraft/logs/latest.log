@@ -572,3 +572,43 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [19:49:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 joined the game
 [19:49:51] [Server thread/INFO] [Waila]: Player EntityPlayerMP['hevilfren123'/53461, l='Venezuela', x=-838.30, y=11.00, z=-1018.34] connected. Sending ping
 [19:50:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> diavlo
+[19:51:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDD has made the advancement [Pike Off!]
+[19:52:32] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[19:52:32] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[19:52:32] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[19:52:32] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[19:52:32] [Server thread/INFO] [Meson ASM]: Patch result: true
+[19:52:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> diavlo que palote
+[19:53:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> a la vrg si es grande
+[19:53:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> cual es la otra barra que aparece?
+[19:53:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDD has made the advancement [Enchanter]
+[19:54:02] [Server thread/INFO] [OverLast]: Saving data to disk.
+[19:54:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Summer, day 9.
+[19:54:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Welcome to Radio Doom. See you at 8:00 every day. Radio Doom is waiting for your contact!
+[19:54:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for summer.
+[19:54:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Summer, day 9.
+[19:54:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: May this hot summer be over soon. May the endless wind and snow never stop, and may we live in this land for a long time until we go to the next planet. Cheers up!
+[19:54:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for summer.
+[19:54:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> wtf
+[19:54:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> asi
+[19:54:22] [Server thread/INFO] [Meson ASM]: Transforming ISpecialArmor
+[19:54:22] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [applyArmor, applyArmor, ] Descriptor (Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/util/NonNullList;Lnet/minecraft/util/DamageSource;D)F / (Lvp;Lfi;Lur;D)F)
+[19:54:22] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[19:54:22] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
+[19:54:22] [Server thread/INFO] [Meson ASM]: Patch result: true
+[19:54:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> estamos en verano
+[19:54:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> la barra del ojo
+[19:54:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> la re concvha de su vieja
+[19:54:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> salgamos tenemos que aprovechar
+[19:54:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> en verano se queman
+[19:55:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> me respawnearon 3 infectados y un enderman infectado,casi me hacen concha,no se como murio el enderman
+[19:55:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> estamos en verano se mueren solos
+[19:55:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> un toque
+[19:56:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> oka
+[19:56:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> madera busquemos
+[19:57:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> mrd es cierto la cordura
+[19:57:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> oye
+[19:57:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> eu}
+[19:57:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> va ser mejor matar al golem
+[19:58:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> lo van a infectar
+[19:59:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> full madera
