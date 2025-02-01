@@ -1884,3 +1884,33 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [05:19:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> a cierto que solo funciona en bedrick
 [05:19:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> xdddddddddddd
 [05:20:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> tiraba polvo de hueso en la tierra y crecia pasto
+[05:20:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> voy a buscar semillas
+[05:21:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> aqui es la salida
+[05:21:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> vamos al nether y nos movemos por ahi
+[05:23:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> vamos al mismo lugar por la lava
+[05:23:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> ahi no
+[05:24:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: XDD moved wrongly!
+[05:24:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> eu dan semillas
+[05:25:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> joya
+[05:25:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> y tire la azada pero si soy
+[05:25:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> xdddddddddd
+[05:26:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 has made the advancement [Hot Stuff]
+[05:27:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> oye we te parec si mejor lo continuamos mañana? mañana te explico como prender el server tu mismo sin problemas
+[05:27:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> oka
+[05:27:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> va la cama para guardar?
+[05:28:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> weno yo safo cierro el server en 5 min x si quieres hacer algo
+[05:28:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> salgo,nos vemos bro
+[05:28:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: XDD lost connection: Timed out
+[05:28:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDD left the game
+[05:28:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] buenas noches
+[05:28:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: hevilfren123 lost connection: Timed out
+[05:28:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 left the game
+[05:28:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[05:28:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[05:28:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[05:28:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[05:28:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Venezuela'/overworld
+[05:28:52] [Server thread/INFO] [FML]: Unloading dimension 0
+[05:28:52] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[05:28:52] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[05:28:52] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
