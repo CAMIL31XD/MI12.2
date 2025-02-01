@@ -22192,3 +22192,45 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [04:59:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> mal
 [04:59:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
 [04:59:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 is bleeding...
+[05:00:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> veni
+[05:00:04] [Server thread/INFO] [Meson ASM]: Transforming ContainerRepair
+[05:00:04] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [updateRepairOutput, func_82848_d, e] Descriptor ()V / ()V)
+[05:00:04] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[05:00:04] [Server thread/INFO] [Meson ASM]: Located target ICONST_0
+[05:00:04] [Server thread/INFO] [Meson ASM]: Patch result: true
+[05:00:04] [Server thread/INFO] [Meson ASM]: Transforming ContainerRepair2
+[05:00:04] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [canTakeStack, func_82869_a, a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Z / (Laed;)Z)
+[05:00:04] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[05:00:04] [Server thread/INFO] [Meson ASM]: Located target IFLE L0
+[05:00:04] [Server thread/INFO] [Meson ASM]: Patch result: true
+[05:00:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[05:00:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> toma
+[05:01:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[05:01:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> vino
+[05:01:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> tenes flechas?
+[05:02:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> ya no xd
+[05:02:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[05:02:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> un cofre oculto hshs
+[05:02:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[05:03:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> toma
+[05:03:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[05:03:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> que te da ese casco?
+[05:04:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> armadura plana
+[05:04:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> 16
+[05:04:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> a la
+[05:04:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[05:04:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> otro cofre
+[05:04:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> los totem estan piolas
+[05:05:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> real
+[05:05:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[05:05:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[05:06:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> irrompibildad 3 en esto cheto
+[05:06:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[05:06:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> good
+[05:06:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> necesito flechas o matar pollos para tener
+[05:07:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[05:08:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[05:08:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[05:09:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> eu 45 libros creo que suficiente
+[05:09:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> para
+[05:09:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
