@@ -20407,3 +20407,95 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [03:37:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
 [03:38:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
 [03:38:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[03:39:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[03:40:10] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id duneons:chef
+[03:40:10] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id duneons:chef
+[03:40:10] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [23, 22] in dimension 0 (overworld) while populating chunk [22, 21], causing cascading worldgen lag.
+[03:40:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:40:10] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [22, 22] in dimension 0 (overworld) while populating chunk [22, 21], causing cascading worldgen lag.
+[03:40:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:40:10] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [23, 23] in dimension 0 (overworld) while populating chunk [22, 21], causing cascading worldgen lag.
+[03:40:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:40:10] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [22, 23] in dimension 0 (overworld) while populating chunk [22, 21], causing cascading worldgen lag.
+[03:40:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:40:10] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [23, 12] in dimension 0 (overworld) while populating chunk [22, 12], causing cascading worldgen lag.
+[03:40:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:40:10] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [23, 13] in dimension 0 (overworld) while populating chunk [22, 12], causing cascading worldgen lag.
+[03:40:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:40:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[03:40:26] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [26, 7] in dimension 0 (overworld) while populating chunk [25, 8], causing cascading worldgen lag.
+[03:40:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:40:27] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id duneons:chef
+[03:40:27] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id duneons:chef
+[03:40:27] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [25, 9] in dimension 0 (overworld) while populating chunk [25, 8], causing cascading worldgen lag.
+[03:40:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:40:27] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [25, 10] in dimension 0 (overworld) while populating chunk [25, 8], causing cascading worldgen lag.
+[03:40:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:40:27] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [26, 8] in dimension 0 (overworld) while populating chunk [25, 8], causing cascading worldgen lag.
+[03:40:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:40:27] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [26, 9] in dimension 0 (overworld) while populating chunk [25, 8], causing cascading worldgen lag.
+[03:40:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:40:27] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [26, 10] in dimension 0 (overworld) while populating chunk [25, 8], causing cascading worldgen lag.
+[03:40:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:40:44] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [25, 29] in dimension 0 (overworld) while populating chunk [24, 29], causing cascading worldgen lag.
+[03:40:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:40:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[03:40:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[03:40:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[03:40:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[03:40:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[03:40:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[03:40:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[03:40:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[03:40:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[03:40:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[03:40:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[03:41:03] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[03:41:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[03:41:10] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[03:41:10] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[03:41:10] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[03:41:10] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[03:41:10] [Server thread/INFO] [Meson ASM]: Patch result: true
+[03:41:34] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[03:41:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[03:41:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> donde anda
+[03:42:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> 430
+[03:42:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> 396
+[03:42:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> 296
+[03:42:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[03:42:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 is bleeding...
+[03:42:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> wtf
+[03:42:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> un zombi bebe con armadura y pico
+[03:42:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 was slain by Zombie miner
+[03:43:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> xdd
+[03:43:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[03:43:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDD has made the advancement [Monster Hunter]
+[03:43:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 is bleeding...
+[03:43:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> boe
+[03:44:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 was shot by Skeleton
+[03:44:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[03:44:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> nido y estos bichos
+[03:44:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[03:45:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 has made the advancement [Monster Hunter]
+[03:45:34] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[03:45:34] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[03:45:34] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[03:45:34] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[03:45:34] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[03:45:34] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[03:45:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[03:45:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDD is bleeding...
+[03:45:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> tremendo
+[03:45:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> quedate ahi
+[03:45:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> corre
+[03:45:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> bicho
+[03:46:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> 30
+[03:46:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[03:46:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> xd
+[03:47:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[03:47:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[03:48:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[03:48:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDD has made the advancement [Acquire Hardware]
+[03:49:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDD has made the advancement [Isn't It Iron Pick]
+[03:49:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
