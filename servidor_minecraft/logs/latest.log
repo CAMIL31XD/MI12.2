@@ -1800,3 +1800,6 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [04:29:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
 [04:29:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
 [04:29:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[04:30:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> tenes madera?
+[04:30:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> si
+[04:35:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 has made the advancement [Not Today, Thank You]
