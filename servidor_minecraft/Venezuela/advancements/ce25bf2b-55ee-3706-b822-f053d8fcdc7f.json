@@ -381,6 +381,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "beaches": "2025-02-01 03:40:01 +0000",
+      "plains": "2025-02-01 04:05:51 +0000",
       "ocean": "2025-02-01 03:40:19 +0000",
       "river": "2025-02-01 03:35:55 +0000"
     },

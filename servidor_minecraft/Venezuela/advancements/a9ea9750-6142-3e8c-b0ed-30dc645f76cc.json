@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-02-01 04:09:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-02-01 03:31:22 +0000"
@@ -113,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-02-01 04:07:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2025-02-01 03:31:05 +0000"
@@ -208,6 +220,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-02-01 03:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-02-01 04:09:20 +0000"
     },
     "done": true
   },
@@ -307,6 +325,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-02-01 04:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-01 04:03:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2025-02-01 04:09:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-02-01 03:51:29 +0000"
@@ -364,6 +400,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "beaches": "2025-02-01 03:42:42 +0000",
+      "forest_hills": "2025-02-01 04:06:34 +0000",
+      "plains": "2025-02-01 04:05:52 +0000",
       "ocean": "2025-02-01 03:43:39 +0000",
       "river": "2025-02-01 03:42:53 +0000"
     },
@@ -516,7 +554,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2025-02-01 03:43:59 +0000",
-      "zombie": "2025-02-01 03:43:22 +0000"
+      "zombie": "2025-02-01 03:43:22 +0000",
+      "creeper": "2025-02-01 04:03:16 +0000"
     },
     "done": false
   },
